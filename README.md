@@ -1,2 +1,2 @@
 # hello-world
-the very first step of being data scientist
+the very first step of being a data scientist
